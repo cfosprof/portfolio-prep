@@ -2,7 +2,7 @@
 
 
 ![Me](myProfile.jpg)
-![Qode-Quiz](qodequiz.png)
+![Qode-Quiz](qode-quiz.png)
 ![Horned Beast](hornedbeast.png)
 ![Background](me1.jpg)
 ![Odd Duck](oddduck.png)
